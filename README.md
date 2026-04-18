@@ -56,5 +56,5 @@ Seja bem-vindo(a) ao meu perfil! Sou um entusiasta da tecnologia em constante ap
 
 ---
 <p align="center">
-  Desenvolvido com ❤️ por [Seu Nome]
+  Obrigado por chegar até aqui 👌
 </p>
